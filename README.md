@@ -86,6 +86,8 @@ l+S , automaticall C program will be generated
 ## STM 32 CUBE PROGRAM :
 
 ```
+Developed By: Sivaramakrishnan B
+Register No: 212222110044
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -178,13 +180,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 
-
 ## Output  :
-![led off](https://user-images.githubusercontent.com/119476322/226986044-6defcbb4-4018-4c41-b070-3accbc8aced9.jpg)
 
-![led on](https://user-images.githubusercontent.com/119476322/226986079-a7a4ddfa-de6d-4fb8-b9ba-5e35e953e3f0.jpg)
+#### LED ON & OFF CONDITION: 
+ ![image](https://github.com/SivaramakrishnanBaskar/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/119476322/2ad12b49-0584-4113-9a2d-a68ec4893b8a)
 
- 
  
  
 ## Result :
