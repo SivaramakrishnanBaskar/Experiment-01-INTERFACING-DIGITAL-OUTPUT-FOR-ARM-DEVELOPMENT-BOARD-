@@ -88,6 +88,7 @@ l+S , automaticall C program will be generated
 ```
 Developed By: Sivaramakrishnan B
 Register No: 212222110044
+
 #include "main.h"
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
@@ -189,5 +190,3 @@ void assert_failed(uint8_t *file, uint32_t line)
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
-
-
